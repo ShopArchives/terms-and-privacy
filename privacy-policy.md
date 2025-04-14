@@ -52,7 +52,6 @@ We retain your review data unless:
 
 - You delete your review yourself
 - It is removed by a moderator
-- You request removal (see below)
 
 ---
 
@@ -60,11 +59,9 @@ We retain your review data unless:
 
 You have the right to:
 
-- **Request deletion** of your review(s)
-- **Request access** to your stored data
-- **Ask questions** about how your data is used
+- **Delete All** of your reviews, in the websites User Settings > Reviews > Delete Your Reviews > Delete Data
 
-To make a request, contact us via request@yapper.shop
+Currently we are working on expanding the control you have over your stored user data.
 
 ---
 
@@ -77,11 +74,3 @@ This site is not intended for children under 13. We do not knowingly collect dat
 ### 7. Changes to This Policy
 
 We may update this Privacy Policy from time to time. All changes will be posted on this page with a new "Last Updated" date.
-
----
-
-### 8. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-📧 contact@yapper.shop
