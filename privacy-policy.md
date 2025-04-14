@@ -42,7 +42,7 @@ Moderators may also remove reviews for violating community rules, including:
 - Harassment
 - Inappropriate content
 
-Moderators have the right to remove reviews for any reason, even if the review does not violate community rules.
+Moderators have the right to remove reviews or stop you from creating reviews for any reason, even if the review does not violate community rules.
 
 ---
 
