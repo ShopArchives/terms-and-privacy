@@ -61,7 +61,8 @@ You have the right to:
 
 - **Delete All** of your reviews, in the websites User Settings > Reviews > Delete Your Reviews > Delete Data
 
-Currently we are working on expanding the control you have over your stored user data.
+> [!NOTE]
+> Currently we are working on expanding the control you have over your stored user data.
 
 ---
 
