@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-**Last Updated: Thursday, 8 May 2025 GMT**
+**Last Updated: Friday, 9 May 2025 GMT**
 
 We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and store information when you log in with Discord on our website.
 
@@ -67,7 +67,7 @@ We retain your review data unless:
 
 You have the right to:
 
-- **Delete All** of your reviews, in the websites User Settings > Reviews > Delete Your Reviews > Delete Data
+- **Delete your reviews** on the same page you created them.
 
 > [!NOTE]
 > Currently we are working on expanding the control you have over your stored user data.
