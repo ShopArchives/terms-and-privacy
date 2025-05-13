@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-**Last Updated: Friday, 9 May 2025 GMT**
+**Last Updated: Tuesday, 13 May 2025 GMT**
 
 We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and store information when you log in with Discord on our website.
 
@@ -18,8 +18,9 @@ When you choose 'Standard' log in, we may store the following data:
 - Your **Discord Avatar**
 - Your **Discord Banner**
 - Your **Discord Banner Color**
-- Your current **Server Tag** (e.g., `🍃 WUMP`)
-- And your **Discord Premium Type (What Nitro you have)**
+- Your **Server Tag** (e.g., `🍃 WUMP`)
+- Your **Avatar Decoration**
+- And your **Discord Premium Type** (What Nitro you have)
 
 We do **not** collect your Discord password or other private information.
 
