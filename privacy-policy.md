@@ -18,9 +18,9 @@ When you choose 'Standard' log in, we may store the following data:
 - Your **Discord Avatar**
 - Your **Discord Banner**
 - Your **Discord Banner Color**
-- Your **Server Tag** (e.g., `🍃 WUMP`)
-- Your **Avatar Decoration**
-- And your **Discord Premium Type** (What Nitro you have)
+- Your **Discord Premium Type** (What Nitro you have)
+- Your **Discord Server Tag** (e.g., `🍃 WUMP`)
+- And your **Discord Avatar Decoration**
 
 We do **not** collect your Discord password or other private information.
 
